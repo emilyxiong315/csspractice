@@ -1,0 +1,25 @@
+html {
+  font-family: sans-serif;
+}
+
+/* Your CSS below here */
+
+p {
+  margin: 0;
+  text-alignment: center;
+  font-size: 1.5rem;
+  text-align: center;
+  line-height: 2;
+  width: 200px;
+  padding: 10px;
+  border:line;
+  background-color: rgb(231, 65,  65);
+  color: rgb(240, 99, 99);
+  text-shadow: 1px 1px 1px black;
+  box-shadow: 6px 10px 10px #774141,
+              inset 20px 30px 50px rgba(0,0,0,0.3),
+              inset -2px -3px 5px rgba(55,155,205,0.5);
+}
+
+
+
